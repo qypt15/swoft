@@ -7,7 +7,7 @@
  * @contact  group@swoft.org
  * @license  https://github.com/swoft-cloud/swoft/blob/master/LICENSE
  */
-
+ 
 namespace App;
 
 use Swoft\SwoftApplication;
